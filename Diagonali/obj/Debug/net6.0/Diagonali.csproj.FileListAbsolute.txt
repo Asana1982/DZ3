@@ -1,0 +1,15 @@
+D:\DZ3\Diagonali\bin\Debug\net6.0\Diagonali.exe
+D:\DZ3\Diagonali\bin\Debug\net6.0\Diagonali.deps.json
+D:\DZ3\Diagonali\bin\Debug\net6.0\Diagonali.runtimeconfig.json
+D:\DZ3\Diagonali\bin\Debug\net6.0\Diagonali.dll
+D:\DZ3\Diagonali\bin\Debug\net6.0\Diagonali.pdb
+D:\DZ3\Diagonali\obj\Debug\net6.0\Diagonali.csproj.AssemblyReference.cache
+D:\DZ3\Diagonali\obj\Debug\net6.0\Diagonali.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ3\Diagonali\obj\Debug\net6.0\Diagonali.AssemblyInfoInputs.cache
+D:\DZ3\Diagonali\obj\Debug\net6.0\Diagonali.AssemblyInfo.cs
+D:\DZ3\Diagonali\obj\Debug\net6.0\Diagonali.csproj.CoreCompileInputs.cache
+D:\DZ3\Diagonali\obj\Debug\net6.0\Diagonali.dll
+D:\DZ3\Diagonali\obj\Debug\net6.0\refint\Diagonali.dll
+D:\DZ3\Diagonali\obj\Debug\net6.0\Diagonali.pdb
+D:\DZ3\Diagonali\obj\Debug\net6.0\Diagonali.genruntimeconfig.cache
+D:\DZ3\Diagonali\obj\Debug\net6.0\ref\Diagonali.dll
