@@ -1,0 +1,15 @@
+D:\DZ3\Zadacha53\bin\Debug\net6.0\Zadacha53.exe
+D:\DZ3\Zadacha53\bin\Debug\net6.0\Zadacha53.deps.json
+D:\DZ3\Zadacha53\bin\Debug\net6.0\Zadacha53.runtimeconfig.json
+D:\DZ3\Zadacha53\bin\Debug\net6.0\Zadacha53.dll
+D:\DZ3\Zadacha53\bin\Debug\net6.0\Zadacha53.pdb
+D:\DZ3\Zadacha53\obj\Debug\net6.0\Zadacha53.csproj.AssemblyReference.cache
+D:\DZ3\Zadacha53\obj\Debug\net6.0\Zadacha53.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ3\Zadacha53\obj\Debug\net6.0\Zadacha53.AssemblyInfoInputs.cache
+D:\DZ3\Zadacha53\obj\Debug\net6.0\Zadacha53.AssemblyInfo.cs
+D:\DZ3\Zadacha53\obj\Debug\net6.0\Zadacha53.csproj.CoreCompileInputs.cache
+D:\DZ3\Zadacha53\obj\Debug\net6.0\Zadacha53.dll
+D:\DZ3\Zadacha53\obj\Debug\net6.0\refint\Zadacha53.dll
+D:\DZ3\Zadacha53\obj\Debug\net6.0\Zadacha53.pdb
+D:\DZ3\Zadacha53\obj\Debug\net6.0\Zadacha53.genruntimeconfig.cache
+D:\DZ3\Zadacha53\obj\Debug\net6.0\ref\Zadacha53.dll
