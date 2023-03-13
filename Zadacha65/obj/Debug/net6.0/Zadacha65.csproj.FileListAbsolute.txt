@@ -1,0 +1,15 @@
+D:\DZ3\Zadacha65\obj\Debug\net6.0\Zadacha65.csproj.AssemblyReference.cache
+D:\DZ3\Zadacha65\obj\Debug\net6.0\Zadacha65.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ3\Zadacha65\obj\Debug\net6.0\Zadacha65.AssemblyInfoInputs.cache
+D:\DZ3\Zadacha65\obj\Debug\net6.0\Zadacha65.AssemblyInfo.cs
+D:\DZ3\Zadacha65\obj\Debug\net6.0\Zadacha65.csproj.CoreCompileInputs.cache
+D:\DZ3\Zadacha65\bin\Debug\net6.0\Zadacha65.exe
+D:\DZ3\Zadacha65\bin\Debug\net6.0\Zadacha65.deps.json
+D:\DZ3\Zadacha65\bin\Debug\net6.0\Zadacha65.runtimeconfig.json
+D:\DZ3\Zadacha65\bin\Debug\net6.0\Zadacha65.dll
+D:\DZ3\Zadacha65\bin\Debug\net6.0\Zadacha65.pdb
+D:\DZ3\Zadacha65\obj\Debug\net6.0\Zadacha65.dll
+D:\DZ3\Zadacha65\obj\Debug\net6.0\refint\Zadacha65.dll
+D:\DZ3\Zadacha65\obj\Debug\net6.0\Zadacha65.pdb
+D:\DZ3\Zadacha65\obj\Debug\net6.0\Zadacha65.genruntimeconfig.cache
+D:\DZ3\Zadacha65\obj\Debug\net6.0\ref\Zadacha65.dll
